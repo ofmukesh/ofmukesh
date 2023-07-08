@@ -1,4 +1,5 @@
 ### Hi there 👋                                                                                       ![](https://komarev.com/ghpvc/?username=ofmukesh)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **ofmukesh/ofmukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
