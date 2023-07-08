@@ -7,19 +7,39 @@
 ![](/github_banner.png)
 
 
-<!-- Github Account info -->
-**Account Stats**
+<br/>
+
 ---
+
+<br/>
+
+<!-- Account stats -->
 <div style="display: flex;justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofmukesh&show_icons=true&locale=en&layout=compact" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ofmukesh&show_icons=true" alt=""/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ofmukesh&show_icons=true&locale=en&layout=compact)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ofmukesh&show_icons=true)
+
+
 </div>
 
-<center style="margin: 20px;">
-    <img src='https://streak-stats.demolab.com/?user=ofmukesh' />
-</center>
+<br/>
+
+---
+
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofmukesh)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+---
+
+<br/>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ofmukesh)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
