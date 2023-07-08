@@ -1,6 +1,4 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ofmukesh)
-![Metrics](https://metrics.lecoq.io/ofmukesh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&leetcode=1&introduction=1&achievements=1&people=1&repositories=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&leetcode=false&leetcode.user=ofmukesh&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
+### Hi there 👋                                                                                       ![](https://komarev.com/ghpvc/?username=ofmukesh)
 <!--
 **ofmukesh/ofmukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
