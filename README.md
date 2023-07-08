@@ -21,7 +21,8 @@
 <br/>
 
 # Connect with me
-<br/> 
+
+![](https://img.shields.io/twitter/follow/of_mukesh?logo=twitter&style=for-the-badge)
 
 <p align="center" style="background-color:whitesmoke;">
 <a href="https://twitter.com/of_mukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="of_mukesh" height="30" width="40" /></a>
