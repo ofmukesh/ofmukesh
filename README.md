@@ -9,9 +9,6 @@
 ### Languages
 
 ![](https://skillicons.dev/icons?i=html,css,js,python,mysql)
-
-### Other tools
-
 ![](https://skillicons.dev/icons?i=react,django,flask,git,figma)
 
 <br/>
