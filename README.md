@@ -17,7 +17,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 - 💬 Ask me about anything [here](https://github.com/ofmukesh/ofmukesh/issues/)! I am happy to help.
 - 👾 Fun fact: null.
 - 📫 How to reach me: of.mukesh@gmail.com.
-- 📝 Checkout my [Resume](https://github.com/ofmukesh/ofmukesh/Resume.pdf).
+- 📝 Checkout my [Resume](/Resume.pdf).
 
 ## Languages and tools
 ![](https://skillicons.dev/icons?i=html,css,js,python,mysql,react,django,flask,git,figma)
