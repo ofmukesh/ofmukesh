@@ -1,47 +1,53 @@
+## Hey 👋, I'm Mukesh
 <!-- Top banner -->
 
 ![](/github_banner.png)
 
-<!-- skills -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ofmukesh)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ofmukesh.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/of_mukesh)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_m_a_r_c_o_7/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ofmukesh)
 
-# Skills
-![](https://skillicons.dev/icons?i=html,css,js,python,mysql)
-![](https://skillicons.dev/icons?i=react,django,flask,git,figma)
+I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<br/>
+- 🛠 I’m currently working with React.js & Django.
+- 🚀 I’m currently learning Full-Stack Development.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ofmukesh).
+- 💬 Ask me about anything [here](https://github.com/ofmukesh/ofmukesh/issues/)! I am happy to help.
+- 👾 Fun fact: null.
+- 📫 How to reach me: of.mukesh@gmail.com.
+- 📝 Checkout my [Resume](https://github.com/ofmukesh/ofmukesh/resume.pdf).
 
-# Connect with me
+## Languages and tools
+![](https://skillicons.dev/icons?i=html,css,js,python,mysql,react,django,flask,git,figma)
 
-![](https://img.shields.io/twitter/follow/of_mukesh?logo=twitter&style=for-the-badge)
+## Projects and Dev Stuffs:
 
-<a href="https://twitter.com/of_mukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="of_mukesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ofmukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofmukesh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17068695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17068695" height="30" width="40" /></a>
-<a href="https://instagram.com/_m_a_r_c_o_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m_a_r_c_o_7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ofmukesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ofmukesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ofmukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ofmukesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ofmukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ofmukesh" height="30" width="40" /></a>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-<br/>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofmukesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofmukesh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-# Account Stats
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ofmukesh)
+</details>
 
-<br/>
+<details>	
+  <summary><b>🏆 Github Trophies</b></summary>
+  <br />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ofmukesh)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
-<!-- Account stats -->
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ofmukesh)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<div style="display: flex;justify-content: space-around;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ofmukesh&show_icons=true&locale=en&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ofmukesh&show_icons=true)
+### ❤️ Thank you for visiting my profile ❤️
 
 </div>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ofmukesh)
-
----
