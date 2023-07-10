@@ -49,5 +49,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 <div align="center">
 
 ### ❤️ Thank you for visiting my profile ❤️
+![](https://komarev.com/ghpvc/?username=marco)
+
 
 </div>
