@@ -46,6 +46,9 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
   [![trophy](https://github-profile-trophy.vercel.app/?username=ofmukesh)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
+## Competitive Profiles
+![LeetCode Stats](https://leetcode.card.workers.dev/ofmukesh?theme=default&font=&extension=null)
+
 <div align="center">
 
 ### ❤️ Thank you for visiting my profile ❤️
