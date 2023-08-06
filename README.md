@@ -47,7 +47,7 @@ I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always wi
 </details>
 
 ## Competitive Profiles
-![LeetCode Stats](https://leetcode.card.workers.dev/ofmukesh?theme=default&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/marco_seven?theme=default&font=&extension=null)
 
 <div align="center">
 
