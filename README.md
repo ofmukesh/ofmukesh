@@ -11,7 +11,7 @@
 
 I'm a Student 🧑‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-- 🛠 I’m currently working with React.js, Django and Flask.
+- 🛠 I’m currently working with React.js, OpenCV, Django and Flask.
 - 🚀 I’m currently learning Full-Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/ofmukesh?tab=repositories) & [Linkedin](https://www.linkedin.com/in/ofmukesh/).
 - 💬 Ask me about anything [here](https://github.com/ofmukesh/ofmukesh/issues/)! I am happy to help.
